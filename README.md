@@ -1,2 +1,2 @@
 # fist-project
-Autherbr--Yuvraj singh
+Auther--Yuvraj singh
